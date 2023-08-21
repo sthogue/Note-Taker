@@ -51,8 +51,15 @@ This application is covered under the MIT License license.
 EdX provided the starter code [Link to code](https://github.com/coding-boot-camp/miniature-eureka). I have GitHub co-pilot installed to help speed up my code and to rediuse errors
 
 ## Screenshots
-![Homepage]()
-![Notes]()
+
+### Homepage
+![Homepage](./images/Homepage.png)
+
+### Initial Notes page
+![Notes](./images/Notes%20page.png)
+
+### Updated Notes page after item is saved
+![Updated notes pages](./images/Updated%20notes%20page.png)
 
 ## Application URL
 [Link to application URL](https://github.com/sthogue/Note-Taker)
