@@ -1,7 +1,22 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text",
-        "noteID": 1
+        "title": "Wash the car",
+        "text": "Go to the car wash to clean out the car",
+        "noteID": "31eb2c2a-c943-47bf-a60b-f011eb8d4aaf"
+    },
+    {
+        "title": "Lunch with Johnny",
+        "text": "Have lunch with Johnny to catch up",
+        "noteID": "5d4dd4f4-8a55-469e-b521-7c26354dac58"
+    },
+    {
+        "title": "Pay bills",
+        "text": "pay the utility bills before the 1st",
+        "noteID": "31c5406c-803c-4d4a-b5b5-0612c7d1bab3"
+    },
+    {
+        "title": "Get groceries",
+        "text": "Get groceries for the next week",
+        "noteID": "5b3af716-a2bd-4c2a-919a-ef0345b13a3d"
     }
 ]
